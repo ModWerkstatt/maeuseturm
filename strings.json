@@ -1,0 +1,18 @@
+{
+	"en": {	
+	
+        "maeuseturm_asset" : "Mäuseturm asset",
+        "maeuseturm zu Bingen" : "Mäuseturm from Bingen.",
+        "maeuseturm" : "Mäuseturm",
+        "maeuseturm als Asset" : "Mäuseturm as asset. The \"Mouse Tower\" (Mäuseturm) of Bingen stands on the Mouse Tower Island in the Rhine."
+		
+	},
+	"de": {
+		
+        "maeuseturm_asset" : "Mäuseturm Asset",
+        "maeuseturm zu Bingen" : "Mäuseturm zu Bingen.",
+        "maeuseturm" : "Bingener Mäuseturm",
+        "maeuseturm als Asset" : "Mäuseturm als Asset. Der Mäuseturm von Bingen steht auf der Mäuseturminsel im Rhein."
+		
+	}
+}

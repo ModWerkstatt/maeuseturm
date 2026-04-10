@@ -1,70 +1,67 @@
 function data()
-return {
-	boundingInfo = {
-		bbMax = { 7.2773289680481, 4.3686871528625, 26.820566177368, },
-		bbMin = { -9.3320093154907, -3.8504738807678, -5.2341785430908, },
-	},
-	collider = {
-		params = {
-			halfExtents = { 8.304669380188, 4.1095805168152, 16.027372360229, },
+return { 
+		boundingInfo = { 
+			bbMax = { 7.277328968048095703125, 4.368687152862548828125, 26.8205661773681640625, },
+			bbMin = { -9.33200931549072265625, -3.850473880767822265625, -5.2341785430908203125, },
 		},
-		transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-		type = "BOX",
-	},
-	lods = {
-		{
-			node = {
-				children = {
-					{
-						materials = { "asset/mauseturm/mauseturm_alt.mtl", },
-						mesh = "asset/mauseturm/mauseturm_lod0.msh",
-						name = "turm",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-				},
-				name = "RootNode",
-				transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+		collider = { 
+			params = { 
+				halfExtents = { 8.30466938018798828125, 4.109580516815185546875, 16.0273723602294921875, },
 			},
-			static = false,
-			visibleFrom = 0,
-			visibleTo = 500.97766113281,
+			transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+			type = "BOX",
 		},
-		{
-			node = {
-				children = {
-					{
-						materials = { "asset/mauseturm/mauseturm_alt.mtl", },
-						mesh = "asset/mauseturm/mauseturm_lod1.msh",
-						name = "turm",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+		lods = {
+			{ 
+				node = { 
+					children = {
+						{ 
+							materials = { "res/models/material/asset/mauseturm/mauseturm_alt.mtl", },
+							mesh = "res/models/mesh/asset/mauseturm/mauseturm_lod0.msh",
+							name = "turm",
+							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+						},
 					},
+					name = "RootNode",
+					transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 				},
-				name = "RootNode",
-				transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+				visibleFrom = 0,
+				visibleTo = 500.9776611328125,
 			},
-			static = false,
-			visibleFrom = 500.97766113281,
-			visibleTo = 1502.9329833984,
-		},
-		{
-			node = {
-				children = {
-					{
-						materials = { "asset/mauseturm/mauseturm_alt.mtl", },
-						mesh = "asset/mauseturm/mauseturm_lod2.msh",
-						name = "turm",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+			{ 
+				node = { 
+					children = {
+						{ 
+							materials = { "res/models/material/asset/mauseturm/mauseturm_alt.mtl", },
+							mesh = "res/models/mesh/asset/mauseturm/mauseturm_lod1.msh",
+							name = "turm",
+							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+						},
 					},
+					name = "RootNode",
+					transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 				},
-				name = "RootNode",
-				transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+				visibleFrom = 500.9776611328125,
+				visibleTo = 1502.9329833984375,
 			},
-			static = false,
-			visibleFrom = 1502.9329833984,
-			visibleTo = 4508.798828125,
+			{ 
+				node = { 
+					children = {
+						{ 
+							materials = { "res/models/material/asset/mauseturm/mauseturm_alt.mtl", },
+							mesh = "res/models/mesh/asset/mauseturm/mauseturm_lod2.msh",
+							name = "turm",
+							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+						},
+					},
+					name = "RootNode",
+					transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+				},
+				visibleFrom = 1502.9329833984375,
+				visibleTo = 4508.798828125,
+			},
 		},
-	},
-	metadata = { },
-	version = 1,
-}
+		metadata = { },
+		version = 1,
+	}
 end

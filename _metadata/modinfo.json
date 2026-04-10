@@ -1,0 +1,22 @@
+{
+    "name": "Mäuseturm Bingen",
+    "summary": "A tower located on the Rhine near Bingen. Three versions are included.",
+    "description": "The mod contains the \"Mouse Tower\" (Mäuseturm) from Bingen as an asset. The Bingen Mäuseturm is a former defence and watchtower that stands on the Mäuseturminsel in the Rhine. Built at the beginning of the 14th century for the purpose of collecting tolls, the tower was later given its popularly modified name as part of a legend. There are three different versions.",
+    "localization" : {
+        "de": {
+            "name": "Mäuseturm Bingen",
+            "summary": "Ein Turm der im Rhein bei Bingen steht. Es sind 3 varianten enthalten.",
+            "description": "Der Mod enthält den Mäuseturm aus Bingen als Assets. Der Binger Mäuseturm ist ein ehemaliger Wehr- und Wachturm, der auf der Mäuseturminsel im Rhein steht. Der Anfang des 14. Jahrhunderts zwecks Eintreibung von Wegezoll (Maut) erbaute Turm erhielt seinen später volkstümlich abgewandelten Namen im Rahmen einer Legende. Enthalten sind drei verschiedene Versionen."
+        }
+    },
+    "authors": [
+        {
+            "name": "ModWerkstatt",
+            "role": "CREATOR"
+        }
+    ],
+    "tags": [
+        "Locomotive"
+    ],
+    "url": "https://modwerkstatt.com/downloads/tpf3/maeuseturm-bingen"
+}

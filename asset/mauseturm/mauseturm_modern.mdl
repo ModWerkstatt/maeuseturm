@@ -1,0 +1,72 @@
+function data()
+return { 
+		boundingInfo = { 
+			bbMax = { 7.277328968048095703125, 4.368687152862548828125, 26.8205661773681640625, },
+			bbMin = { -9.33200931549072265625, -3.850473880767822265625, -5.2341785430908203125, },
+		},
+		collider = { 
+			params = { 
+				halfExtents = { 8.30466938018798828125, 4.109580516815185546875, 16.0273723602294921875, },
+			},
+			transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+			type = "BOX",
+		},
+		lods = {
+			{ 
+				node = { 
+					children = {
+						{ 
+							materials = { "mat/mauseturm_modern.mtl", },
+							mesh = "msh/mauseturm_lod0.msh",
+							name = "turm",
+							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+						},
+					},
+					name = "RootNode",
+					transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+				},
+				visibleFrom = 0,
+				visibleTo = 500.9776611328125,
+			},
+			{ 
+				node = { 
+					children = {
+						{ 
+							materials = { "mat/mauseturm_modern.mtl", },
+							mesh = "msh/mauseturm_lod1.msh",
+							name = "turm",
+							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+						},
+					},
+					name = "RootNode",
+					transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+				},
+				visibleFrom = 500.9776611328125,
+				visibleTo = 1502.9329833984375,
+			},
+			{ 
+				node = { 
+					children = {
+						{ 
+							materials = { "mat/mauseturm_modern.mtl", },
+							mesh = "msh/mauseturm_lod2.msh",
+							name = "turm",
+							transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+						},
+					},
+					name = "RootNode",
+					transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+				},
+				visibleFrom = 1502.9329833984375,
+				visibleTo = 4508.798828125,
+			},
+		},
+		metadata = { 
+			extent = { 
+				bbMax = { 7.277328968048095703125, 4.368687152862548828125, 26.8205661773681640625, },
+				bbMin = { -9.33200931549072265625, -3.850473880767822265625, -5.2341785430908203125, },
+			},
+		},
+		version = 2,
+	}
+end
