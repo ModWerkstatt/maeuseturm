@@ -3,8 +3,8 @@ function data()
 return { 
 	constructionType = "ASSET_TRACK",
 	description = { 
-		name = _("FS E636 locomotives "),			
-		description = _("E636 locomotives be used as asset"),
+		name = _("maeuseturm_asset"),			
+		description = _("maeuseturm_asset_desc"),
 		icon = "icons/raptorark_menu_fs_e636_smallIcon@2x.tga",
 		previewIcon = "",
 	},
