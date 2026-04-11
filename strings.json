@@ -3,17 +3,16 @@
 	
         "maeuseturm_asset" : "Mäuseturm asset",
         "maeuseturm_asset_desc" : "The mod includes the Mäuseturm in Bingen as assets. The Mäuseturm in Bingen is a former defensive and watchtower located on Mäuseturm Island in the Rhine. Built in the early 14th century to collect tolls, the tower later acquired its colloquial name as part of a legend. Three different versions are included.",
-        "maeuseturm" : "Mäuseturm",
-        "maeuseturm als Asset" : "Mäuseturm as asset. The \"Mouse Tower\" (Mäuseturm) of Bingen stands on the Mouse Tower Island in the Rhine."
+        "maeuseturm_menu" : "Selection Mäuseturm Bingen",
+        "tooltip_maeuseturm" : "The icon on the left shows the original Mouse Tower, the middle one shows the renovated Mouse Tower, and the last icon shows the modern Mouse Tower as it stands today on the Rhine."
 		
 	},
 	"de": {
 		
 		"maeuseturm_asset" : "Mäuseturm Asset",
         "maeuseturm_asset_desc" : "Der Mod enthält den Mäuseturm aus Bingen als Assets. Der Binger Mäuseturm ist ein ehemaliger Wehr- und Wachturm, der auf der Mäuseturminsel im Rhein steht. Der Anfang des 14. Jahrhunderts zwecks Eintreibung von Wegezoll (Maut) erbaute Turm erhielt seinen später volkstümlich abgewandelten Namen im Rahmen einer Legende. Enthalten sind drei verschiedene Versionen.",
-        "maeuseturm zu Bingen" : "Mäuseturm zu Bingen.",
-        "maeuseturm" : "Bingener Mäuseturm",
-        "maeuseturm als Asset" : "Mäuseturm als Asset. Der Mäuseturm von Bingen steht auf der Mäuseturminsel im Rhein."
+        "maeuseturm_menu" : "Auswahl Mäuseturm Bingen",
+        "tooltip_maeuseturm" : "Linkes Icons zeigt den alten Ursprünglichen Mäuseturm, das mittlere den Renovierten Mäusetum und das letzte Icon zeigt den modernen Mäuse wie er heute am Rhein steht."
 		
 	}
 }
