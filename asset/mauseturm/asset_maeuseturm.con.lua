@@ -1,7 +1,7 @@
 function data()
 
 return { 
-	constructionType = "ASSET_TRACK",
+	constructionType = "ASSET_DEFAULT",
 	description = { 
 		name = _("maeuseturm_asset"),			
 		description = _("maeuseturm_asset_desc"),
