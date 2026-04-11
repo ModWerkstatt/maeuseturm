@@ -6,7 +6,7 @@ return {
 			light_receiver = { 
 				fragmentProperties = {
 					{ 
-						isLegacyMaterial = true,
+						isLegacyMaterial = false,
 						lightMask = 2,
 					},
 				},
@@ -15,7 +15,6 @@ return {
 				fragmentSamplers = { 
 					albedoTex = { 
 						fileName = "tex/modern_albedo.dds",
-						scaleDownAllowed = false,
 						type = "TWOD",
 					},
 				},
@@ -24,7 +23,6 @@ return {
 				fragmentSamplers = { 
 					metalGlossAoTex = { 
 						fileName = "tex/modern_metal_gloss_ao.dds",
-						scaleDownAllowed = false,
 						type = "TWOD",
 					},
 				},
