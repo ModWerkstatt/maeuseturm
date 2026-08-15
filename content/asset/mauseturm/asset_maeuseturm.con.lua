@@ -5,7 +5,7 @@ return {
 	description = { 
 		name = _("maeuseturm_asset"),			
 		description = _("maeuseturm_asset_desc"),
-		icon = "icons/assets_maeuseturm_smallIcon@2x.tga",
+		icon = "icons/assets_maeuseturm_icon_small@2x.tga",
 		previewIcon = "icons/assets_maeuseturm_preview@2x.tga",
 	},
 	menuCategory = {
