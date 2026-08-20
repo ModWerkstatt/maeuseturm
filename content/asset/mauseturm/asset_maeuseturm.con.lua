@@ -11,7 +11,7 @@ return {
 	menuCategory = {
 		categories = {
 			{
-				category = "landscaping_assets",
+				category = "town_buildings_othe",
 				order = 5000,
 			},
 		},
