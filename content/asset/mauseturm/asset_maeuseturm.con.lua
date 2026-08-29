@@ -11,7 +11,7 @@ return {
 	menuCategory = {
 		categories = {
 			{
-				category = "town_buildings_othe",
+				category = "town_buildings_other",
 				order = 5000,
 			},
 		},
